@@ -1,0 +1,17 @@
+h1{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: brown;
+    font-weight: 600;
+}
+.mensaje{
+    font-size: 25px;
+    font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.mensaje .error{
+    color: red;
+}
+.mensaje .ok{
+    color: green;
+}
